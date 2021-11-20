@@ -33,7 +33,6 @@
     "gh-pages": "^2.2.0",
     "html-loader": "^3.0.0"
   },
-  "description": "![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)",
   "main": "index.js",
   "repository": {
     "type": "git",
